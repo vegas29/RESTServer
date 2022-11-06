@@ -2,7 +2,7 @@
 
 Ejecutar primero
 
-```npm install``
+```npm install```
 
 luego
 
